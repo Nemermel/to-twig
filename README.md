@@ -1,25 +1,27 @@
 PHP Smarty to Twig Converter
 ==========================
 toTwig is an utility to convert smarty template engine to twig template engine.
-
-Installation
+This Repository, is a fork from turbophp/to-twig.
+You may find original repository here: [`to-twig`](https://github.com/turbophp/to-twig)
 ------------
+Installation
+----------
 
 ### Locally
 
 Download the
-[`toTwig.phar`](https://raw.github.com/sankarsuda/toTwig/master/toTwig.phar) file and
+[`toTwig.phar`](https://raw.github.com/Nemermel/toTwig/master/toTwig.phar) file and
 store it somewhere on your computer.
 
 ### Globally (manual)
 
 You can run these commands to easily acces `toTwig` from anywhere on your system:
 
-	$ sudo wget https://raw.github.com/sankarsuda/toTwig/master/toTwig.phar -O /usr/local/bin/toTwig
+	$ sudo wget https://raw.github.com/Nemermel/toTwig/master/toTwig.phar -O /usr/local/bin/toTwig
 
 or with curl:
 
-	$ sudo curl https://raw.github.com/sankarsuda/toTwig/master/toTwig.phar -o /usr/local/bin/toTwig
+	$ sudo curl https://raw.github.com/Nemermel/toTwig/master/toTwig.phar -o /usr/local/bin/toTwig
 
 then:
 
@@ -120,7 +122,7 @@ Contribute
 ----------
 
 The tool comes with quite a few built-in converters and finders, but everyone is
-more than welcome to [contribute](https://github.com/sankarsuda/toTwig) more
+more than welcome to [contribute](https://github.com/Nemermel/toTwig) more
 of them.
 
 ### Converter
